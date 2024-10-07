@@ -1,5 +1,9 @@
-## Hi there 👋
+# Hello! Hi! Hey!
 
+## At Work
+ ### I am a Full Stack developer who has a proven track record of finding user-centric solutions for complex problems.
+## At Life
+### I tend to enjoy everything under the sun, including, but not limited to: hiding from it and working on personal projects; strategy JRPGs; and concerts.
 <!--
 **fpamadeo/fpamadeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
