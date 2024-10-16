@@ -1,7 +1,7 @@
 # Hello! Hi! Hey!
 
 ## At Work
- ### I am a Full Stack developer who has a proven track record of finding user-centric solutions for complex problems.
+ ### I am a Full Stack developer who has a proven track record of architecturing user-centric systems for complex  real-life processes.
 ## At Life
 ### I tend to enjoy everything under the sun, including, but not limited to: hiding from it and working on personal projects; strategy JRPGs; and concerts.
 <!--
