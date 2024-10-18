@@ -1,7 +1,8 @@
 # Hello! Hi! Hey!
 
 ## At Work
- ### I am a Full Stack developer who has a proven track record of architecturing user-centric systems for complex  real-life processes.
+ ### I am a Full Stack developer who has a proven track record of architecturing user-centric systems for complex  real-life processes. A copy of my resume can be seen [here](https://github.com/fpamadeo/Public-LaTeX-Resume/blob/main/Amadeo_resume.pdf) 
+ 
 ## At Life
 ### I tend to enjoy everything under the sun, including, but not limited to: hiding from it and working on personal projects; strategy JRPGs; and concerts.
 <!--
